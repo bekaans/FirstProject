@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace EntityLayer.Entities
 {
-    internal class Product
+    public class Product
     {
+        public int ProductID { get; set; }
+        public String ProductName { get; set; }
+        public int Stock { get; set; }
     }
 }
