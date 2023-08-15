@@ -13,6 +13,7 @@ namespace EntityLayer.Entities
         public int ProductID { get; set; }
         public String ProductName { get; set; }
         public int Stock { get; set; }
+        public int CategoryID { get; set; }
+        public virtual Category Category { get; set; }
     }
 }
-aw
