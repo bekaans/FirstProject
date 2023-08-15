@@ -71,3 +71,6 @@ EntityLayer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 *.xml
 *.csproj
 EntityLayer/EntityLayer.csproj
+*.vsidx
+*.vsidx
+*.cache

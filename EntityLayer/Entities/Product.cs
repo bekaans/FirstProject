@@ -15,3 +15,4 @@ namespace EntityLayer.Entities
         public int Stock { get; set; }
     }
 }
+aw
