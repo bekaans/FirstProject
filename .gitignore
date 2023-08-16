@@ -76,3 +76,4 @@ EntityLayer/EntityLayer.csproj
 *.cache
 *.cache
 .vs/ProjectProductt/v17/.suo
+*.cs
